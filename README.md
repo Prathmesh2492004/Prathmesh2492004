@@ -111,7 +111,7 @@ Responsive shopping platform.
 # Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph username=Prathmesh2492004&bg_color=0d1117&color=A855F7&line=8B5CF6&point=C084FC&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh2492004&theme=react-dark&color=A855F7&line=A855F7&point=C084FC"/>
 </p>
 
 ---
