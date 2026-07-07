@@ -11,7 +11,7 @@
 <p align="center">
 
 ![MIT ADT](https://img.shields.io/badge/MIT_ADT_University-B.Tech-purple?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Engineer-indigo?style=for-the-badge)
+![CS](https://img.shields.io/badge/CS-Engineer-indigo?style=for-the-badge)
 ![Pune](https://img.shields.io/badge/Pune-India-6A0DAD?style=for-the-badge)
 
 <a href="mailto:prathmeshbhilegaonkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge"/></a>
@@ -111,7 +111,7 @@ Responsive shopping platform.
 # Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh2492004&theme=react-dark&color=A855F7&line=A855F7&point=C084FC"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph username=Prathmesh2492004&bg_color=0d1117&color=A855F7&line=8B5CF6&point=C084FC&area=true&hide_border=true" />
 </p>
 
 ---
