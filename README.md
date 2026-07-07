@@ -118,10 +118,9 @@ Responsive shopping platform.
 
 # Contribution Snake
 
-```text
-Configure via GitHub Actions using Platane/snk.
-Set color to purple in the generated SVG theme.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prathmesh2492004/Prathmesh2492004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
