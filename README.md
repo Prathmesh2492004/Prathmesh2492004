@@ -1,158 +1,97 @@
-# Hi, I'm Prathmesh Bhilegaonkar 👋
+<h1 align="center">Prathmesh Bhilegaonkar</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,7F5AF0,4F46E5&height=220&section=header&text=Prathmesh%20Bhilegaonkar&fontColor=ffffff&fontSize=42" />
+  <b>AI/ML & Full-Stack Developer</b> · B.Tech Computer Science, MIT ADT University, Pune (2026)
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+ML+Developer;Full+Stack+Developer;Open+Source+Contributor" />
-</p>
-
-<p align="center">
-
-![MIT ADT](https://img.shields.io/badge/MIT_ADT_University-B.Tech-purple?style=for-the-badge)
-![CS](https://img.shields.io/badge/CS-Engineer-indigo?style=for-the-badge)
-![Pune](https://img.shields.io/badge/Pune-India-6A0DAD?style=for-the-badge)
-
-<a href="mailto:prathmeshbhilegaonkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge"/></a>
-<a href="https://github.com/Prathmesh2492004"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/prathmesh-bhilegaonkar-297ba9233"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-
+  <a href="https://www.linkedin.com/in/prathmesh-bhilegaonkar-297ba9233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prathmeshbhilegaonkar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Prathmesh2492004/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Prathmesh2492004/LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
 
-# About Me
+### About
 
-Computer Science Engineering student at **MIT ADT University** with strong interests in **Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Analytics**.
+I build AI-powered applications end to end: retrieval pipelines and ML models on the backend, React interfaces on the front, and the APIs that connect them.
 
-- Building production-style software
-- Passionate about AI-powered applications
-- Open to Software Engineering, AI/ML and Full Stack opportunities
-
----
-
-# Tech Stack
-
-**Languages:** Python, Java, JavaScript, C++, SQL
-
-**Frontend:** HTML, CSS, React
-
-**Backend:** Node.js, Express
-
-**Databases:** MongoDB, MySQL
-
-**Tools:** Git, GitHub, VS Code, TensorFlow, Pandas, NumPy
+- 💼 **Currently:** Software Developer Intern at **Nova IoT Systems**, building applications that connect to IoT systems and present their data
+- 🔨 **Building:** [DevAssist](https://github.com/Prathmesh2492004/devassist), a codebase Q&A and automated PR-review tool using RAG with file-and-line citations
+- 🎯 **Looking for:** Full-time roles in Software Engineering, Data Science, Data Analytics and Full-Stack Development, available to join immediately
+- 🧩 **Practising:** Data structures and algorithms in Python and Java
 
 ---
 
-# AI / ML Expertise
+### Featured Projects
 
-| Domain | Proficiency | Details |
+| Project | What it does | Stack |
 |---|---|---|
-| Machine Learning | Advanced | Supervised Learning, Model Evaluation |
-| Deep Learning | Intermediate | CNN, TensorFlow |
-| NLP | Intermediate | Gemini API, AI Assistants |
-| Data Analytics | Advanced | Pandas, NumPy, Visualization |
+| **[DevAssist](https://github.com/Prathmesh2492004/devassist)** 🚧 | Answers questions about any codebase with cited sources, and reviews pull requests automatically through a GitHub App | FastAPI · Next.js 15 · PostgreSQL + pgvector · Redis · Celery · Claude API · Docker · Terraform |
+| **[KisaanSathi](https://github.com/Prathmesh2492004/KisaanSathi)** | AI assistant for farmers: retrieves government schemes, checks eligibility against rule files for 12 schemes (PM-KISAN, PMFBY, KCC and more) and points farmers to the right help | RAG · ChromaDB · sentence-transformers · LLaMA 3.3 (Groq) · FastAPI · React + Vite |
+| **[CareerSage AI](https://github.com/Prathmesh2492004/CareerSageAI)** | Career recommendation system for 10th and 12th grade students, combining academic scores with an aptitude test | scikit-learn · Flask · React · SQLite |
+| **[Brain Tumor Detection](https://github.com/Prathmesh2492004/Brain-Tumor-Detection)** | CNN classifier for brain MRI scans with 92%+ accuracy *(team project)* | TensorFlow · CNN · Python |
+| **[Intellix AI](https://github.com/Prathmesh2492004/Intellix-AI)** | Desktop AI assistant for natural-language queries *(team project)* | Python · Gemini API |
+
+**Data analytics:**
+[E-commerce Sales & Customer Analytics](https://github.com/Prathmesh2492004/Ecommerce-Sales-Customer-Analytics) ·
+[Vendor Performance Analysis](https://github.com/Prathmesh2492004/Vendor-Performance-Analysis) ·
+[HR Analytics Dashboard](https://github.com/Prathmesh2492004/HR-Analytics-Dashboard)
 
 ---
 
-# Featured Projects
+### Tech Stack
 
-<details>
-<summary><b>IntelliX AI</b></summary>
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-AI assistant integrating Gemini API with NLP.
+**AI / ML & Data**<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-ChromaDB-FF6446?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-| Stack | Python |
-|---|---|
-| Performance | Real-time responses |
-| Security | API authentication |
-| Repository | https://github.com/Prathmesh2492004 |
+**Backend & Frontend**<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-</details>
-
-<details>
-<summary><b>Brain Tumor Detection</b></summary>
-
-CNN-based MRI brain tumor classifier.
-
-</details>
-
-<details>
-<summary><b>CareerSage AI</b></summary>
-
-AI-powered career guidance platform.
-
-</details>
-
-<details>
-<summary><b>Ecommerce Website</b></summary>
-
-Responsive shopping platform.
-
-</details>
+**Databases, Cloud & Tools**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 ---
 
-# GitHub Analytics
+### Certifications
+
+- Python for Data Science & Machine Learning (Udemy)
+- MySQL for Data Analytics and Data Science (in progress)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathmesh2492004&show_icons=true&theme=midnight-purple"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh2492004&theme=midnight-purple"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathmesh2492004&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh2492004&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh2492004&layout=compact&theme=midnight-purple"/>
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh2492004&theme=react-dark&color=A855F7&line=A855F7&point=C084FC"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prathmesh2492004/Prathmesh2492004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - System Design
-  - Cloud Computing
-building:
-  - AI Applications
-  - Full Stack Projects
-exploring:
-  - DevOps
-  - LLMs
-open_to:
-  - Software Engineering Internships
-  - AI/ML Roles
-```
-
----
-
-# Connect
-
-- Gmail: prathmeshbhilegaonkar@gmail.com
-- GitHub: https://github.com/Prathmesh2492004
-- LinkedIn: https://www.linkedin.com/in/prathmesh-bhilegaonkar-297ba9233
-
----
-
-> "Build software that solves real-world problems."
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,7F5AF0,4F46E5&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Prathmesh2492004/Prathmesh2492004/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
 </p>
